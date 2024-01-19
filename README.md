@@ -1,3 +1,3 @@
 # demo
 This is a demo repo<br>
-Author is Shashwat Kushwaha
+Author is Shashwat Kush
